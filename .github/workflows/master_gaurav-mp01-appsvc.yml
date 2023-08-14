@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'gaurav-mp01-appsvc'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9A6035A2FED4232882312D2AEB77CCE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_497DA3A68436449C8E73C3171644A270 }}
           package: .
